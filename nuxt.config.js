@@ -60,4 +60,9 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
+
+  // Environment variables
+  env: {
+    appTitle: 'YueBlog',
+  },
 }
